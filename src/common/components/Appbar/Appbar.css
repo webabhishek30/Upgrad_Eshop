@@ -1,0 +1,10 @@
+.topLinks ul{
+    list-style: none;
+}
+.topLinks ul li{
+    display: inline-block;
+    margin-left: 2em;
+}
+.topLinks ul li a{
+    color: #fff;
+}
